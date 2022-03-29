@@ -4,6 +4,12 @@
 ##### 사람을 아름답게 하는 코드를 만들고 싶은 개발자 입니다. 
 ##### 열심히 잔디 꾸미기중!
 
+***
+## Target
+- SpringBoot + JPA
+- View.js
+
+***
 ## Skills
 #### Platforms
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)  ![RoR](https://img.shields.io/badge/Ruby_on_Rails-CC0000.svg?&style=for-the-badge&logo=RubyonRails&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
