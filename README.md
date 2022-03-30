@@ -10,6 +10,10 @@
 - View.js
 
 ***
+## Ongoing
+- View.js
+
+***
 ## Skills
 #### Platforms
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)  ![RoR](https://img.shields.io/badge/Ruby_on_Rails-CC0000.svg?&style=for-the-badge&logo=RubyonRails&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
