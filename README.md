@@ -7,11 +7,11 @@
 ***
 ## Target
 - SpringBoot + JPA
-- View.js
+- Vue.js
 
 ***
 ## Ongoing
-- View.js
+- Vue.js
 
 ***
 ## Skills
